@@ -1,4 +1,4 @@
-1 [][] what is javascript ?
+1) what is javascript ?
 
 JavaScript is a high-level, dynamic, and versatile programming language primarily used for building interactive and dynamic web applications. It is one of the core technologies for web development, along with HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets). JavaScript allows developers to add functionality, manipulate data, and control the behavior of web pages.
 
@@ -23,7 +23,7 @@ Here are some key characteristics and uses of JavaScript:
 JavaScript has evolved significantly over the years, with ECMAScript (the standardized specification for JavaScript) being regularly updated to introduce new features and improvements. Modern JavaScript includes features like arrow functions, async/await, and modules, making it a powerful and expressive language for web development.
 
 
-2[][]what is script languages?
-scripting languages are interpreted, which means the code is executed line-by-line by an interpreter or runtime environment without the need for compilation into machine code
+2) what is script languages?
+scripting languages are interpreted, which means the code is executed line-by-line by an interpreter or runtime environment without the need for compilation into machine code.
 
 
