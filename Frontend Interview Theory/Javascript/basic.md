@@ -24,6 +24,7 @@ JavaScript has evolved significantly over the years, with ECMAScript (the standa
 
 
 2) what is script languages?
-scripting languages are interpreted, which means the code is executed line-by-line by an interpreter or runtime environment without the need for compilation into machine code.
+
+Scripting languages are interpreted, which means the code is executed line-by-line by an interpreter or runtime environment without the need for compilation into machine code.
 
 
