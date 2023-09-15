@@ -1,7 +1,8 @@
-1) what is function ?
+# 1) what is function ?
+   
  JavaScript, a function is a reusable block of code that can be defined and executed. Functions allow you to encapsulate a set of statements into a single unit, which can then be called or invoked multiple times with different inputs (arguments) to perform specific tasks or calculations. Functions are a fundamental concept in JavaScript and play a crucial role in structuring and organizing your code.
 
- 2) types of function and explan in short
+#  3) types of function and explan in short
 
  here are several types of functions in programming. Here's a short explanation of some common ones:
 
