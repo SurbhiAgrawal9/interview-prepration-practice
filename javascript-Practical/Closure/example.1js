@@ -1,0 +1,20 @@
+
+ // incomplete real time example
+
+function vishnu(money){
+    let double = money + money
+   
+  function surbhi(){
+    let intrest = money + double/2
+  }
+    return surbhi;
+  
+}
+function bhuvaneshwaram(){
+     let contact =  vishnu(200000)
+   let bank = contact()
+       
+}
+
+
+
