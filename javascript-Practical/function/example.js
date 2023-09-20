@@ -3,9 +3,9 @@ Functions are the basic building block of JavaScript. Functions allow us to enca
 
 Functions make JavaScript code more readable, organized, reusable, and maintainable.
 
-  ```js
+
   function <function-name>(arg1, arg2, arg3,...)
 {
     //write function code here
 };
-```
+
