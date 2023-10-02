@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+#clock {
+  height: 40px;
+  weight: 50px;
+  background-color: pink;
+}
