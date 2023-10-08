@@ -2,7 +2,7 @@ In JavaScript, call, apply, and bind are methods used to manipulate the executio
 
 ## Note:- In JavaScript, the term "context" typically refers to the value of the "this" keyword within a particular function or code block.
 
-## call:
+## Call:
 
 call is a method that allows you to invoke a function with a specified this value and a list of arguments passed individually.
 It immediately executes the function.
@@ -21,7 +21,7 @@ greet.call(person2, 'Hi');    // Outputs: Hi, Bob
 ```
 
 
-## apply:
+## Apply:
 
 apply is similar to call, but it takes arguments as an array or an array-like object.
 It also immediately executes the function.
@@ -40,7 +40,7 @@ greet.apply(person2, ['Hi', 'Farewell']);    // Outputs: Hi, Bob. Farewell
 ```
 
 
-## bind:
+## Bind:
 
 bind is used to create a new function that, when invoked, has its this value set to a specific object, and it can be called later without immediate execution.
 It returns a new function that you can call at a later time.
