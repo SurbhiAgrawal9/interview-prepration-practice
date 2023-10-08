@@ -1,4 +1,4 @@
-// CAll & Apply
+// CAll , Apply & bind
 
 let userDetaill1 = {
   name: "anuj sharma",
@@ -18,4 +18,9 @@ let userDetaill2 = {
 //function borrowing
 printAll.call(userDetaill1,"ooty","india")
 // printAll.call(userDetaill2,"kashmir")
+//Apply
 printAll.apply(userDetaill2, ["kashmir","india"])
+
+//Bind
+let store = printAll.bind(userDetaill1, "paris", "france")
+store()
