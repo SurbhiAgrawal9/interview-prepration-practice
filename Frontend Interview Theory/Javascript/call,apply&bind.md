@@ -61,3 +61,7 @@ greetPerson2('Hi');    // Outputs: Hi, Bob
 
 In summary, call and apply are used for immediate function execution with a specified this value and arguments, while bind creates a new function with a fixed this value, which can be called later. These methods are often used in JavaScript to control the context in which functions are executed or to pass arguments dynamically.
 
+## uses
+
+In summary, the call method is a powerful tool in JavaScript that allows you to control the this value and pass arguments to functions individually. It is particularly useful in situations where you need to change the context in which a function is executed or when you want to borrow methods from one object to use in another.
+
