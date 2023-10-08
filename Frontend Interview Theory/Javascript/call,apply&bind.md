@@ -1,5 +1,7 @@
 In JavaScript, call, apply, and bind are methods used to manipulate the execution context and parameters of functions. They are often used to change the value of this within a function or to pass arguments to a function in a flexible way. Let's define each of them and provide real-world examples:
 
+## Note:- In JavaScript, the term "context" typically refers to the value of the "this" keyword within a particular function or code block.
+
 call:
 
 call is a method that allows you to invoke a function with a specified this value and a list of arguments passed individually.
