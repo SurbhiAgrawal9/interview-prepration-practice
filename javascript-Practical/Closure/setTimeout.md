@@ -1,5 +1,5 @@
 
-  // fix this code
+  ##  fix this code :-
   ```js
 function x(){
 for(var i=1;i<=5;i++){   // bcz of var  
@@ -13,7 +13,7 @@ x();
 ```
 
 
-// fix it with the help of let
+## fix it with the help of let :-
 
 ```js
 function x(){
@@ -27,7 +27,7 @@ for(let i=1;i<=5;i++){   //let is block scope, in everytime
 x();
 ```
 
-// with the help of closure 
+## with the help of closure :- 
 
 ```js
 function x(){
