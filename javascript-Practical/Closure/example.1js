@@ -1,7 +1,7 @@
 
  // incomplete real time example
 
-function vishnu(money){
+function vishu(money){
     let double = money + money
    
   function surbhi(){
@@ -11,7 +11,7 @@ function vishnu(money){
   
 }
 function bhuvaneshwaram(){
-     let contact =  vishnu(200000)
+     let contact =  vishu(200000)
    let bank = contact()
        
 }
