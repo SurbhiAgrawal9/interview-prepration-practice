@@ -1,4 +1,5 @@
-//static way
+//infinite currying in javascript
+//static way 
 ```js
 function add(a){
   return function(b){
