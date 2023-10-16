@@ -1,4 +1,5 @@
 //static way
+```js
 function add(a){
   return function(b){
     return function(){
@@ -7,6 +8,7 @@ function add(a){
   }
 }
 console.log(add(2)(4)())
+```
 
 
 
